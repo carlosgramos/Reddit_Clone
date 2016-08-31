@@ -32,7 +32,7 @@ gem 'hirb'
 # gem 'capistrano-rails', group: :development
 gem 'railties'
 gem 'devise'
-
+gem 'bootstrap-sass'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
